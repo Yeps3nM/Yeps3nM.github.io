@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /resultados/
+title: Resultados
+description: Resumen de los resultados del análisis
 nav: true
 nav_order: 5
 ---
