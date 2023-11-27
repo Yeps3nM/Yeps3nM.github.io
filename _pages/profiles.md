@@ -23,7 +23,26 @@ profiles:
       <p>Variable independiente (x) = Total de habitantes</p>
       <p>Variable dependiente (y) = Centro de salud por comuna</p>
   - align : left 
-    image : regresion.png
     content: about_regresion.md
-    image_circular: False
+    images: 
+      - image : regresion1.png
+        image_circular: False
+      - image : boxplotdensidad.png
+        image_circular : False
+  - align : right 
+    image : complejidadnivel.png
+    content : about_complejidad.md
+    image_circular : False 
+  - align : right 
+    image : complejidadnivel.png
+    content : about_tiposervicio.md
+  - align : right 
+    image : complejidadnivel.png
+    content : about_farmacias.md 
+  - align : left 
+    image : complejidadnivel.png
+    content: about_privpublic.md
+  - align : right
+    image : complejidadnivel.png
+    content: about_grupo.md
 ---
