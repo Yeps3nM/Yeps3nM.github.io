@@ -31,4 +31,4 @@ Por lo tanto, con el trasfondo de conocer sus ubicaciones actuales y cuánta cen
 Este proyecto está dirigido a aquellas autoridades o personas involucradas en elaboración de políticas públicas y dirección general de la contrucción de establecimientos médicos. Considerando así también a las municipalidades de cada localidad y aquellos sujetos pertinenetes en la toma de decisiones de construcción dentro del ministerio de Salud. Aunque incluso, tiene su relevancia para el público general y la adquisición de conocimiento respecto a la situación país de la distribución de aquellos centros y farmacias que ellos mismos pueden necesitar. 
 
 #### Repositorio
-El link al repositorio donde se encuentra el proyecto es : (https://github.com/Utmite/imt2022-project)
+El link al repositorio donde se encuentra el proyecto es : <a href="https://github.com/Utmite/imt2022-project"></a>
